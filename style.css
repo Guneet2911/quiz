@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: pink;
+}
+
+button{
+    background-color: darkorchid;
+    color:white;
+    width: 140px;
+    height:90px;
+    font-size: 25px;
+    border-radius:20px;
+}
+
+#next{
+    background-color: green;
+}
+
+#login_button
+{
+    font-size:25px;
+}
